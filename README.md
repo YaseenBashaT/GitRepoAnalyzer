@@ -20,7 +20,7 @@ An AI-powered tool that analyzes GitHub repositories and answers questions about
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YaseenBashaT/GitRepoAnalyzer.git
+git clone https://github.com/yourusername/GitRepoAnalyzer.git
 cd GitRepoAnalyzer
 ```
 
